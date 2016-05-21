@@ -132,7 +132,7 @@ It has multiple lines, some <code>code</code>, and a bit more text.]]></wp:comme
 
 		<category><![CDATA[Uncategorized]]></category>
 
-		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+		<category domain="categorised" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
 
 <guid isPermaLink="false">http://dev.danphilibin.com/wordpress/?p=23</guid>
 <description></description>
